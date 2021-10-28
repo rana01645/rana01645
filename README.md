@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **YIVE Systems**
 
-- 🌱 I’m currently learning **Javascript, Python, Mysql, Vue**
+- 🌱 I’m currently learning **JavaScript, Python, MySQL, Vue**
 
 - 📝 I regulary write articles on [http://androidrace.com/](http://androidrace.com/)
 
-- 💬 Ask me about **Android App Development, Java, Lravel**
+- 💬 Ask me about **Android App Development, Java, Laravel**
 
 - 📫 How to reach me **rana01645@gmail.com**
 
