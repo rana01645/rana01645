@@ -11,7 +11,7 @@
 
 - 📝 I regulary write articles on [http://androidrace.com/](http://androidrace.com/)
 
-- 💬 Ask me about **Android App Development, Java, Laravel**
+- 💬 Ask me about **PHP, Laravel, Java, Android App Development**
 
 - 📫 How to reach me **rana01645@gmail.com**
 
