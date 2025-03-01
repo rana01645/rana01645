@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rana01645@gmail.com**
 
-- 💼 See more about me at https://afjalurrana.com
+- 💼 See more about me at https://afjalur.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
